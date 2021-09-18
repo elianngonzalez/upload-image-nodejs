@@ -1,0 +1,23 @@
+
+---------------------------------------
+
+
+npm install  multer
+npm install  ejs 
+npm install express 
+npm install  uuid
+
+npm install nodemon -D (para poder tener actualizacion en vivo de la pagina)
+ 
+         comando para iniciar 
+configurado en package.json mi script personal :   
+"scripts": {
+
+        "dev": "nodemon src/index.js"
+    } 
+    
+    
+ejecutar en el terminal : npm run dev
+
+
+--------------------------------------
